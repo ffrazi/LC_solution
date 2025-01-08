@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ffrazi/LC_solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ffrazi/LC_solution/tree/master/0242-valid-anagram) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
+| [3379-score-of-a-string](https://github.com/ffrazi/LC_solution/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
