@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ffrazi/LC_solution/tree/master/0189-rotate-array) |
 | [0941-sort-array-by-parity](https://github.com/ffrazi/LC_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ffrazi/LC_solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ffrazi/LC_solution/tree/master/0242-valid-anagram) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2365-percentage-of-letter-in-string](https://github.com/ffrazi/LC_solution/tree/master/2365-percentage-of-letter-in-string) |
 | [3379-score-of-a-string](https://github.com/ffrazi/LC_solution/tree/master/3379-score-of-a-string) |
 ## Dynamic Programming
