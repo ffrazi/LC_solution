@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ffrazi/LC_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/ffrazi/LC_solution/tree/master/2365-percentage-of-letter-in-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Counting
 |  |
 | ------- |
