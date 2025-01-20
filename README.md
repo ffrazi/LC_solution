@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ffrazi/LC_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ffrazi/LC_solution/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ffrazi/LC_solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ffrazi/LC_solution/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0605-can-place-flowers](https://github.com/ffrazi/LC_solution/tree/master/0605-can-place-flowers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ffrazi/LC_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ffrazi/LC_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/ffrazi/LC_solution/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ffrazi/LC_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/ffrazi/LC_solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ffrazi/LC_solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ffrazi/LC_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ffrazi/LC_solution/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ffrazi/LC_solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [2509-minimize-xor](https://github.com/ffrazi/LC_solution/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ffrazi/LC_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ffrazi/LC_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
