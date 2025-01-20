@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/ffrazi/LC_solution/tree/master/2792-neighboring-bitwise-xor) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ffrazi/LC_solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ffrazi/LC_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ffrazi/LC_solution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
