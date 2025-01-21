@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
+| [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ffrazi/LC_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ffrazi/LC_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ffrazi/LC_solution/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ffrazi/LC_solution/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
+| [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 ## Math
 |  |
 | ------- |
