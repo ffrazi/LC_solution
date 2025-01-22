@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/ffrazi/LC_solution/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ffrazi/LC_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ffrazi/LC_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
