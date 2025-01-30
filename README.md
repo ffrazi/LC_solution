@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/ffrazi/LC_solution/tree/master/1876-map-of-highest-peak) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ffrazi/LC_solution/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1610-xor-operation-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1610-xor-operation-in-an-array) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
