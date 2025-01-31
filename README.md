@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ffrazi/LC_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ffrazi/LC_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/ffrazi/LC_solution/tree/master/0941-sort-array-by-parity) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ffrazi/LC_solution/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ffrazi/LC_solution/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ffrazi/LC_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ffrazi/LC_solution/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/ffrazi/LC_solution/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ffrazi/LC_solution/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ffrazi/LC_solution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/ffrazi/LC_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ffrazi/LC_solution/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ffrazi/LC_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ffrazi/LC_solution/tree/master/1558-course-schedule-iv) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/ffrazi/LC_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ffrazi/LC_solution/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/ffrazi/LC_solution/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ffrazi/LC_solution/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
