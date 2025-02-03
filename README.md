@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ffrazi/LC_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/ffrazi/LC_solution/tree/master/2365-percentage-of-letter-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ffrazi/LC_solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ffrazi/LC_solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ffrazi/LC_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
