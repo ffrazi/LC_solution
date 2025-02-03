@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ffrazi/LC_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ffrazi/LC_solution/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ffrazi/LC_solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ffrazi/LC_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1610-xor-operation-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1610-xor-operation-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ffrazi/LC_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1610-xor-operation-in-an-array) |
 | [2509-minimize-xor](https://github.com/ffrazi/LC_solution/tree/master/2509-minimize-xor) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ffrazi/LC_solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
