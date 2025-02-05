@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/ffrazi/LC_solution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/ffrazi/LC_solution/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/ffrazi/LC_solution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
