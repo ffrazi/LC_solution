@@ -17,9 +17,10 @@ class Solution {
     public int numIslands(char[][] grid) {
         int R = grid.length, island = 0;
         int C = grid[0].length;
+        boolean visited[][]=new boolean[R][C];
         for (int row = 0; row < R; row++) {
             for (int col = 0; col < C; col++) {
-                if (grid[row][col] == '1') {
+                if (grid[row][col] == '1' && !visited[row][col]) {
                     island++;
                     dfs(R, C, grid, row, col);
                 }
