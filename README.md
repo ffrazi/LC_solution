@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ffrazi/LC_solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ffrazi/LC_solution/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ffrazi/LC_solution/tree/master/0066-plus-one) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ffrazi/LC_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ffrazi/LC_solution/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ffrazi/LC_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ffrazi/LC_solution/tree/master/0125-valid-palindrome) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ffrazi/LC_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ffrazi/LC_solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
