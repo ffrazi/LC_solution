@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ffrazi/LC_solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ffrazi/LC_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ffrazi/LC_solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ffrazi/LC_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ffrazi/LC_solution/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ffrazi/LC_solution/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ffrazi/LC_solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ffrazi/LC_solution/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ffrazi/LC_solution/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ffrazi/LC_solution/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/ffrazi/LC_solution/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/ffrazi/LC_solution/tree/master/0242-valid-anagram) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ffrazi/LC_solution/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/ffrazi/LC_solution/tree/master/0547-number-of-provinces) |
@@ -433,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ffrazi/LC_solution/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
