@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/ffrazi/LC_solution/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/ffrazi/LC_solution/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/ffrazi/LC_solution/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ffrazi/LC_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ffrazi/LC_solution/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/ffrazi/LC_solution/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/ffrazi/LC_solution/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ffrazi/LC_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ffrazi/LC_solution/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/ffrazi/LC_solution/tree/master/0525-contiguous-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ffrazi/LC_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
 | [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
