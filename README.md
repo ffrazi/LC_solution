@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ffrazi/LC_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ffrazi/LC_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ffrazi/LC_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ffrazi/LC_solution/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ffrazi/LC_solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ffrazi/LC_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
