@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/ffrazi/LC_solution/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
 | ------- |
