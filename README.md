@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ffrazi/LC_solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ffrazi/LC_solution/tree/master/2509-minimize-xor) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ffrazi/LC_solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ffrazi/LC_solution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ffrazi/LC_solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2365-percentage-of-letter-in-string](https://github.com/ffrazi/LC_solution/tree/master/2365-percentage-of-letter-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ffrazi/LC_solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ffrazi/LC_solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ffrazi/LC_solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ffrazi/LC_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ffrazi/LC_solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ffrazi/LC_solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ffrazi/LC_solution/tree/master/3447-clear-digits) |
 ## Counting
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ffrazi/LC_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ffrazi/LC_solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Ordered Set
 |  |
