@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ffrazi/LC_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ffrazi/LC_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ffrazi/LC_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ffrazi/LC_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ffrazi/LC_solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
