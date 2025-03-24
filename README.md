@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ffrazi/LC_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ffrazi/LC_solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ffrazi/LC_solution/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ffrazi/LC_solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
