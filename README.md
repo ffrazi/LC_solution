@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ffrazi/LC_solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ffrazi/LC_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/ffrazi/LC_solution/tree/master/1137-height-checker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ffrazi/LC_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ffrazi/LC_solution/tree/master/1364-tuple-with-same-product) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ffrazi/LC_solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/ffrazi/LC_solution/tree/master/0605-can-place-flowers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ffrazi/LC_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ffrazi/LC_solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
