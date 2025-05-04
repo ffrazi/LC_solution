@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ffrazi/LC_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ffrazi/LC_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/ffrazi/LC_solution/tree/master/1137-height-checker) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ffrazi/LC_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ffrazi/LC_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ffrazi/LC_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ffrazi/LC_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ffrazi/LC_solution/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ffrazi/LC_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ffrazi/LC_solution/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ffrazi/LC_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ffrazi/LC_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ffrazi/LC_solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
