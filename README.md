@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/ffrazi/LC_solution/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ffrazi/LC_solution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ffrazi/LC_solution/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ffrazi/LC_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ffrazi/LC_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/ffrazi/LC_solution/tree/master/2262-solving-questions-with-brainpower) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## Union Find
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/ffrazi/LC_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ffrazi/LC_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
 | ------- |
