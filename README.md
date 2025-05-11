@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ffrazi/LC_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/ffrazi/LC_solution/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ffrazi/LC_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/ffrazi/LC_solution/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ffrazi/LC_solution/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/ffrazi/LC_solution/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
