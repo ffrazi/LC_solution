@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ffrazi/LC_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ffrazi/LC_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ffrazi/LC_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/ffrazi/LC_solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/ffrazi/LC_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ffrazi/LC_solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ffrazi/LC_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
