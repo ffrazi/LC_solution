@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ffrazi/LC_solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ffrazi/LC_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/ffrazi/LC_solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ffrazi/LC_solution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/ffrazi/LC_solution/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ffrazi/LC_solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ffrazi/LC_solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ffrazi/LC_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ffrazi/LC_solution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/ffrazi/LC_solution/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ffrazi/LC_solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ffrazi/LC_solution/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ffrazi/LC_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ffrazi/LC_solution/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ffrazi/LC_solution/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/ffrazi/LC_solution/tree/master/3647-zero-array-transformation-iii) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/ffrazi/LC_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ffrazi/LC_solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ffrazi/LC_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ffrazi/LC_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ffrazi/LC_solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ffrazi/LC_solution/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ffrazi/LC_solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ffrazi/LC_solution/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ffrazi/LC_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
@@ -705,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ffrazi/LC_solution/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ffrazi/LC_solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
