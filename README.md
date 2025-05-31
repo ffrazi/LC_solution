@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/ffrazi/LC_solution/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/ffrazi/LC_solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ffrazi/LC_solution/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ffrazi/LC_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ffrazi/LC_solution/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ffrazi/LC_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ffrazi/LC_solution/tree/master/1396-count-servers-that-communicate) |
