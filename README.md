@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/ffrazi/LC_solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ffrazi/LC_solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ffrazi/LC_solution/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ffrazi/LC_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ffrazi/LC_solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ffrazi/LC_solution/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ffrazi/LC_solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ffrazi/LC_solution/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ffrazi/LC_solution/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ffrazi/LC_solution/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ffrazi/LC_solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ffrazi/LC_solution/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
 | ------- |
