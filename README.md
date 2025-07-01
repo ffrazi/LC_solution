@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ffrazi/LC_solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ffrazi/LC_solution/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ffrazi/LC_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ffrazi/LC_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ffrazi/LC_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ffrazi/LC_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ffrazi/LC_solution/tree/master/0882-peak-index-in-a-mountain-array) |
