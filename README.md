@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ffrazi/LC_solution/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ffrazi/LC_solution/tree/master/0463-island-perimeter) |
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ffrazi/LC_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ffrazi/LC_solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1610-xor-operation-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ffrazi/LC_solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/ffrazi/LC_solution/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/ffrazi/LC_solution/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
