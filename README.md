@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ffrazi/LC_solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/ffrazi/LC_solution/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/ffrazi/LC_solution/tree/master/0463-island-perimeter) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ffrazi/LC_solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ffrazi/LC_solution/tree/master/0135-candy) |
+| [0330-patching-array](https://github.com/ffrazi/LC_solution/tree/master/0330-patching-array) |
 | [0605-can-place-flowers](https://github.com/ffrazi/LC_solution/tree/master/0605-can-place-flowers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ffrazi/LC_solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
