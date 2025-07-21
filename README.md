@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ffrazi/LC_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ffrazi/LC_solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ffrazi/LC_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0064-minimum-path-sum) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ffrazi/LC_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ffrazi/LC_solution/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ffrazi/LC_solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ffrazi/LC_solution/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
