@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ffrazi/LC_solution/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/ffrazi/LC_solution/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/ffrazi/LC_solution/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/ffrazi/LC_solution/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/ffrazi/LC_solution/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/ffrazi/LC_solution/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ffrazi/LC_solution/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ffrazi/LC_solution/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ffrazi/LC_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ffrazi/LC_solution/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ffrazi/LC_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ffrazi/LC_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ffrazi/LC_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
