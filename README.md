@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/ffrazi/LC_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ffrazi/LC_solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ffrazi/LC_solution/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ffrazi/LC_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ffrazi/LC_solution/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ffrazi/LC_solution/tree/master/0900-reordered-power-of-2) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ffrazi/LC_solution/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ffrazi/LC_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ffrazi/LC_solution/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ffrazi/LC_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ffrazi/LC_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1032,4 +1035,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
