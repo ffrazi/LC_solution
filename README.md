@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ffrazi/LC_solution/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ffrazi/LC_solution/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/ffrazi/LC_solution/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ffrazi/LC_solution/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ffrazi/LC_solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ffrazi/LC_solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ffrazi/LC_solution/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ffrazi/LC_solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ffrazi/LC_solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2887-sort-vowels-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ffrazi/LC_solution/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ffrazi/LC_solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ffrazi/LC_solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
