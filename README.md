@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ffrazi/LC_solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ffrazi/LC_solution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/ffrazi/LC_solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ffrazi/LC_solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ffrazi/LC_solution/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ffrazi/LC_solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ffrazi/LC_solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ffrazi/LC_solution/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ffrazi/LC_solution/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ffrazi/LC_solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ffrazi/LC_solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/ffrazi/LC_solution/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ffrazi/LC_solution/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/ffrazi/LC_solution/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ffrazi/LC_solution/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/ffrazi/LC_solution/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -1068,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ffrazi/LC_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ffrazi/LC_solution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ffrazi/LC_solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/ffrazi/LC_solution/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
