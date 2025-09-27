@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ffrazi/LC_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
+| [0830-largest-triangle-area](https://github.com/ffrazi/LC_solution/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ffrazi/LC_solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ffrazi/LC_solution/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/ffrazi/LC_solution/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/ffrazi/LC_solution/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ffrazi/LC_solution/tree/master/0900-reordered-power-of-2) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ffrazi/LC_solution/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/ffrazi/LC_solution/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ffrazi/LC_solution/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ffrazi/LC_solution/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
