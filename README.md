@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/ffrazi/LC_solution/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ffrazi/LC_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ffrazi/LC_solution/tree/master/0830-largest-triangle-area) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/ffrazi/LC_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
