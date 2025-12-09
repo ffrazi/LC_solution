@@ -1,18 +1,12 @@
 class Solution:
-    #memonization
-    def __init__(self):
-        self.dp = {}
-
+    #tabulation
     def minCostClimbingStairs(self, cost):
         n = len(cost)
-        return min(self.solve(n - 1, cost), self.solve(n - 2, cost))
+        dp = [0] * n
+        dp[0] = cost[0]
+        dp[1] = cost[1]
 
-    def solve(self, i, cost):
-        if i <= 1:
-            return cost[i]
+        for i in range(2, n):
+            dp[i] = cost[i] + min(dp[i-1], dp[i-2])
 
-        if i in self.dp:
-            return self.dp[i]
-
-        self.dp[i] = cost[i] + min(self.solve(i - 1, cost), self.solve(i - 2, cost))
-        return self.dp[i]
+        return min(dp[n-1], dp[n-2])
