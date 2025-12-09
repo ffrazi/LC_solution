@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ffrazi/LC_solution/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/ffrazi/LC_solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ffrazi/LC_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ffrazi/LC_solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ffrazi/LC_solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ffrazi/LC_solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ffrazi/LC_solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ffrazi/LC_solution/tree/master/0231-power-of-two) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ffrazi/LC_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
