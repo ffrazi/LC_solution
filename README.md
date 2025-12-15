@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/ffrazi/LC_solution/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ffrazi/LC_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/ffrazi/LC_solution/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ffrazi/LC_solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2145-grid-game](https://github.com/ffrazi/LC_solution/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ffrazi/LC_solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ffrazi/LC_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ffrazi/LC_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ffrazi/LC_solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ffrazi/LC_solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ffrazi/LC_solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/ffrazi/LC_solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ffrazi/LC_solution/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ffrazi/LC_solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/ffrazi/LC_solution/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ffrazi/LC_solution/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ffrazi/LC_solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ffrazi/LC_solution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ffrazi/LC_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ffrazi/LC_solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ffrazi/LC_solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
