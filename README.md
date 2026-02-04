@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ffrazi/LC_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/ffrazi/LC_solution/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ffrazi/LC_solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ffrazi/LC_solution/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ffrazi/LC_solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ffrazi/LC_solution/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ffrazi/LC_solution/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
 | [0679-24-game](https://github.com/ffrazi/LC_solution/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
