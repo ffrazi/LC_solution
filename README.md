@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ffrazi/LC_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ffrazi/LC_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1539-kth-missing-positive-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ffrazi/LC_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/ffrazi/LC_solution/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/ffrazi/LC_solution/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ffrazi/LC_solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ffrazi/LC_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/ffrazi/LC_solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ffrazi/LC_solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ffrazi/LC_solution/tree/master/1917-maximum-average-pass-ratio) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ffrazi/LC_solution/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ffrazi/LC_solution/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ffrazi/LC_solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ffrazi/LC_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ffrazi/LC_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/ffrazi/LC_solution/tree/master/1876-map-of-highest-peak) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ffrazi/LC_solution/tree/master/2101-last-day-where-you-can-still-cross) |
