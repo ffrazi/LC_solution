@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ffrazi/LC_solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ffrazi/LC_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/ffrazi/LC_solution/tree/master/0330-patching-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ffrazi/LC_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ffrazi/LC_solution/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/ffrazi/LC_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ffrazi/LC_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ffrazi/LC_solution/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/ffrazi/LC_solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/ffrazi/LC_solution/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/ffrazi/LC_solution/tree/master/0463-island-perimeter) |
