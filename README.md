@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ffrazi/LC_solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ffrazi/LC_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ffrazi/LC_solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ffrazi/LC_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ffrazi/LC_solution/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ffrazi/LC_solution/tree/master/0066-plus-one) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ffrazi/LC_solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ffrazi/LC_solution/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/ffrazi/LC_solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ffrazi/LC_solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ffrazi/LC_solution/tree/master/0074-search-a-2d-matrix) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ffrazi/LC_solution/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/ffrazi/LC_solution/tree/master/0898-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ffrazi/LC_solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ffrazi/LC_solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
