@@ -812,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ffrazi/LC_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ffrazi/LC_solution/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ffrazi/LC_solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ffrazi/LC_solution/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ffrazi/LC_solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ffrazi/LC_solution/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ffrazi/LC_solution/tree/master/0130-surrounded-regions) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ffrazi/LC_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ffrazi/LC_solution/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ffrazi/LC_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
