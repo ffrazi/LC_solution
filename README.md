@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ffrazi/LC_solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ffrazi/LC_solution/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ffrazi/LC_solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2404-most-frequent-even-element](https://github.com/ffrazi/LC_solution/tree/master/2404-most-frequent-even-element) |
 | [2429-design-a-food-rating-system](https://github.com/ffrazi/LC_solution/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ffrazi/LC_solution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ffrazi/LC_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ffrazi/LC_solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ffrazi/LC_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ffrazi/LC_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/ffrazi/LC_solution/tree/master/2404-most-frequent-even-element) |
 | [2429-design-a-food-rating-system](https://github.com/ffrazi/LC_solution/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/ffrazi/LC_solution/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ffrazi/LC_solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ffrazi/LC_solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ffrazi/LC_solution/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ffrazi/LC_solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2404-most-frequent-even-element](https://github.com/ffrazi/LC_solution/tree/master/2404-most-frequent-even-element) |
 | [2448-count-number-of-bad-pairs](https://github.com/ffrazi/LC_solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ffrazi/LC_solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ffrazi/LC_solution/tree/master/3242-count-elements-with-maximum-frequency) |
