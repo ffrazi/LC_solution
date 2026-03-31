@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ffrazi/LC_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ffrazi/LC_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1646-kth-missing-positive-number) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1813-maximum-erasure-value](https://github.com/ffrazi/LC_solution/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ffrazi/LC_solution/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ffrazi/LC_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/ffrazi/LC_solution/tree/master/1137-height-checker) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ffrazi/LC_solution/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ffrazi/LC_solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ffrazi/LC_solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ffrazi/LC_solution/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ffrazi/LC_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ffrazi/LC_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ffrazi/LC_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ffrazi/LC_solution/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ffrazi/LC_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/ffrazi/LC_solution/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ffrazi/LC_solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1646-kth-missing-positive-number) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ffrazi/LC_solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/ffrazi/LC_solution/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ffrazi/LC_solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
