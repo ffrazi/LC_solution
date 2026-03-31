@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/ffrazi/LC_solution/tree/master/1524-string-matching-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ffrazi/LC_solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/ffrazi/LC_solution/tree/master/1539-kth-missing-positive-number) |
+| [1575-count-all-possible-routes](https://github.com/ffrazi/LC_solution/tree/master/1575-count-all-possible-routes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ffrazi/LC_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ffrazi/LC_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ffrazi/LC_solution/tree/master/1603-running-sum-of-1d-array) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/ffrazi/LC_solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/ffrazi/LC_solution/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ffrazi/LC_solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1575-count-all-possible-routes](https://github.com/ffrazi/LC_solution/tree/master/1575-count-all-possible-routes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ffrazi/LC_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ffrazi/LC_solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ffrazi/LC_solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1126,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ffrazi/LC_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
+| [1575-count-all-possible-routes](https://github.com/ffrazi/LC_solution/tree/master/1575-count-all-possible-routes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ffrazi/LC_solution/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ffrazi/LC_solution/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ffrazi/LC_solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
