@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/ffrazi/LC_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
 | [0845-longest-mountain-in-array](https://github.com/ffrazi/LC_solution/tree/master/0845-longest-mountain-in-array) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0867-new-21-game](https://github.com/ffrazi/LC_solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/ffrazi/LC_solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ffrazi/LC_solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ffrazi/LC_solution/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ffrazi/LC_solution/tree/master/0389-find-the-difference) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ffrazi/LC_solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/ffrazi/LC_solution/tree/master/1409-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ffrazi/LC_solution/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/ffrazi/LC_solution/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/ffrazi/LC_solution/tree/master/0820-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0854-making-a-large-island](https://github.com/ffrazi/LC_solution/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ffrazi/LC_solution/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0945-snakes-and-ladders](https://github.com/ffrazi/LC_solution/tree/master/0945-snakes-and-ladders) |
@@ -1281,4 +1284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ffrazi/LC_solution/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
