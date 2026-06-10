@@ -1338,4 +1338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ffrazi/LC_solution/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ffrazi/LC_solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
