@@ -6,13 +6,11 @@ class Solution:
         r = len(board)
         c = len(board[0])
 
-        # Step 1: Mark boundary 'O's and their connected 'O's as 'R'
         for i in range(r):
             for j in range(c):
                 if board[i][j] == 'O' and (i == 0 or i == r - 1 or j == 0 or j == c - 1):
                     self.change(board, i, j)
 
-        # Step 2: Flip unvisited 'O' to 'X' and revert 'R' back to 'O'
         for i in range(r):
             for j in range(c):
                 if board[i][j] == 'O':
