@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ffrazi/LC_solution/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/ffrazi/LC_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/ffrazi/LC_solution/tree/master/0771-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/ffrazi/LC_solution/tree/master/0868-push-dominoes) |
 | [0889-buddy-strings](https://github.com/ffrazi/LC_solution/tree/master/0889-buddy-strings) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ffrazi/LC_solution/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/ffrazi/LC_solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/ffrazi/LC_solution/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/ffrazi/LC_solution/tree/master/0826-soup-servings) |
