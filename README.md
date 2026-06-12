@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ffrazi/LC_solution/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ffrazi/LC_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ffrazi/LC_solution/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ffrazi/LC_solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/ffrazi/LC_solution/tree/master/0771-jewels-and-stones) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ffrazi/LC_solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ffrazi/LC_solution/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/ffrazi/LC_solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ffrazi/LC_solution/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/ffrazi/LC_solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/ffrazi/LC_solution/tree/master/0806-domino-and-tromino-tiling) |
