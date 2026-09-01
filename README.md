@@ -1365,4 +1365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/ffrazi/LC_solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ffrazi/LC_solution/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ffrazi/LC_solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
